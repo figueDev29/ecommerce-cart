@@ -69,4 +69,4 @@ Method Endpoint Description POST /api/carts Create a new cart GET /api/carts/{id
 
 📌 You can also add Swagger later for automatic visual documentation. I can help you integrate it if you want.
 
-👨‍💻 Author Esteban Software Engineer | Backend Developer Correo: estebanfigue29@gmail.com
+👨‍💻 Author Esteban Software Engineer | Backend Developer mail: estebanfigue29@gmail.com
